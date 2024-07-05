@@ -37,12 +37,12 @@ Team Member 1: Mostafa Atallah
  - Nationality: Egypt
  - Current affiliation: The University of Tennessee, Knoxville
 
-Team Member 2: _(full name)_
- - Email:
- - Discord ID:
- - GitHub ID:
- - Nationality:
- - Current affiliation:
+Team Member 2: Fatema Elgebali
+ - Email: felgebalius@gmail.com
+ - Discord ID: fatema_
+ - GitHub ID: fatemamelg
+ - Nationality: Egypt
+ - Current affiliation: Stellenbosch University
 
 ### Project Solution:
 _Include a comprehensive summary of all important information about your project solution here._
